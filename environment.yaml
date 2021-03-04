@@ -1,0 +1,24 @@
+name: dds-examples
+channels:
+  - conda-forge
+  - fondazione-cmcc
+dependencies:
+  - python
+  - pip
+  - datetime
+  - os
+  - pathlib
+  - subprocess
+  - warnings
+  - appmode
+  - cartopy
+  - graphviz
+  - hvplot
+  - IPython
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - pandas
+  - xarray
+  - ddsapi
+  
