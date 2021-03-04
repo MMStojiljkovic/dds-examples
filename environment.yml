@@ -10,7 +10,6 @@ dependencies:
   - pathlib
   - subprocess
   - warnings
-  - appmode
   - cartopy
   - graphviz
   - hvplot
@@ -21,4 +20,4 @@ dependencies:
   - pandas
   - xarray
   - ddsapi
-  
+  - appmode
